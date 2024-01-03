@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #2459b5;
+    background-color: #24b57f;
     background-size: cover;
 }
 
@@ -55,7 +55,7 @@ body {
 #result {
     width: auto;
     height: auto;
-    background: #15367d;
+    background: #157d78;
     padding: 8px;
     text-align: center;
 }
